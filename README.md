@@ -1,3 +1,6 @@
+## Presentation video = https://drive.google.com/file/d/1i9lmpacd9Bj5xW071mqldaBhbs3QdksK/view?usp=sharing
+## Deployed project link = https://ai-market-strategy-engine.vercel.app/
+
 # McKinsey AI Market Research & Strategy Engine
 
 Production-oriented AI market intelligence platform for consultants, strategy teams, reviewers, and administrators. The application turns research intake into governed research jobs, AI-assisted analysis, evidence validation, report generation, dashboard monitoring, knowledge memory, uploads, notifications, and audit-backed review workflows.
